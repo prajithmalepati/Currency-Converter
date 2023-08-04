@@ -12,7 +12,7 @@ public class Currency_Converter extends JFrame {
     private DecimalFormat decimalFormat = new DecimalFormat("#,##0.00");
 
     private final String[] currencies = {"USD", "EUR", "JPY", "GBP", "CAD", "AUD", "CHF", "CNY","INR"};
-    private double[] exchangeRates = {1.00, 0.84, 109.65, 0.72, 1.27, 1.30, 0.92, 6.47,87.14};
+    private double[] exchangeRates = {1.00, 0.91, 141.72, 0.78, 1.33, 1.51, 0.87, 7.17,82.69};
 
     public Currency_Converter() {
         setTitle("Currency Converter");
